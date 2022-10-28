@@ -1,2 +1,4 @@
+# This ignores all of these files from adding into the git repository
 log.txt
 /dir2
+*.txt
